@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @singhoc
+- 👀 I’m interested in Data extraction, IOT, Automation, java applications.
+- 🌱 I’m currently learning Appium for Automation, SQL.
+- 💞️ I’m looking to collaborate on java based applications, automation, software development.
+- 📫 Email me at singhoc01@gmail.com
