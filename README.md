@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @singhoc
-- 👀 I’m interested in Projects that enhances people lives.
+- 👀 I’m interested in projects that enhances people lives.
 - 🌱 I’m currently learning Unity Development.
 - 💞️ I’m looking to collaborate on automation, software development, Web Development.
 - 📫 Email me at mrinalsingh120@gmail.com
